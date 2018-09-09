@@ -1,7 +1,7 @@
 #Fish feeder
 
 Hobby project I did to keep my fish alive while I was away.
-The rig consisted of a perforated syringe that was filled with dry fish food.that was placed over a fish tank.
+The rig consisted of a perforated syringe filled with dry fish food that was placed over a fish tank.
 At predefined times the controller would rotate the syringe via a small servo an deposit food into the tank.
 [Video of the rig in action](https://youtu.be/gjBpVbtTOGI)
 
